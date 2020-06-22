@@ -1,0 +1,10 @@
+# folder debug
+debug/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.o
+*.exe
+*.opendb
+*.opensdf
