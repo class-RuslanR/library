@@ -1,6 +1,7 @@
 #pragma once
 #include <map>
 #include <set>
+#include <limits>
 #include "reader.h"
 #include "book.h"
 
