@@ -1,6 +1,10 @@
 # library
 book's library
 
+The application works like a data base with readers and books. 
+A costumer has access to several functions: show books, show a reader, enter a new book, enter a new reader, return a book, clear the display, etc. 
+I used basics of OOP (hierarchy of classes) and STL for designing of the application.
+
 Book's library with user's menu:
 1) Show the library
 2) Show books
